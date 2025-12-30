@@ -17,6 +17,8 @@ interface CourseCardProps {
   course: Course;
 }
 
+// links for Courses and Youtube videos 
+
 const typeIcons = {
   video: <Video className="h-4 w-4" />,
   course: <List className="h-4 w-4" />,
