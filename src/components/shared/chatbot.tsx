@@ -24,6 +24,8 @@ type Message = {
   content: string | EduChatOutput;
 };
 
+// Chatbot Sevices 
+
 export function EduChatbot() {
   const [messages, setMessages] = useState<Message[]>([]);
   const [input, setInput] = useState('');
