@@ -8,7 +8,7 @@ export type Course = {
   imageId: string;
   category: string; // Add category to each course
 };
-
+// adding more field 
 export type CourseCategory = {
   name: string;
   courses: Course[];
