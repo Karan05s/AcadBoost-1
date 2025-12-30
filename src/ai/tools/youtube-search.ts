@@ -44,7 +44,7 @@ export async function searchYoutube(query: string) {
       };
     }
 }
-  
+  // For Youtube api Access 
 export const youtubeVideoTool = ai.defineTool(
     {
       name: 'searchYoutube',
