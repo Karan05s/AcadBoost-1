@@ -5,7 +5,7 @@ export type MenuItem = {
   title: string;
   icon: React.ComponentType<{ className?: string }>;
 };
-
+// Updating file 
 export const menuItems: MenuItem[] = [
   {
     path: '/dashboard',
