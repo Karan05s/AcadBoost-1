@@ -13,7 +13,7 @@
 ## Style Guidelines:
 
 - Primary color: A calming blue (#64B5F6) to represent trust and learning.
-- Background color: Light gray (#F0F4F8) to provide a clean and modern feel.
+- Background color: Light gray (#F0F4F8) to provide a clean and modern feel...
 - Accent color: A soft orange (#FFAB91) to highlight important actions and elements.
 - Body font: 'PT Sans' for comfortable readability, ensuring content is accessible and clear. 
 - Headline font: 'Playfair' (serif) paired with 'PT Sans' for body. Playfair adds elegance and readability in the headers, while PT Sans maintains readability in longer texts.
