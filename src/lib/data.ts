@@ -18,7 +18,7 @@ export const progressData = [
   { month: 'May', score: 91 },
   { month: 'Jun', score: 89 },
 ];
-
+// update 
 export const courses = [
     { id: '1', title: 'Introduction to Python', category: 'Programming', progress: 75, imageUrl: 'python', enrolled: true },
     { id: '2', title: 'Advanced Calculus', category: 'Mathematics', progress: 45, imageUrl: 'calculus', enrolled: true },
