@@ -3,7 +3,7 @@ import { StatsCards } from '@/components/dashboard/stats-cards';
 import { ProgressChart } from '@/components/dashboard/progress-chart';
 import { EnrolledCourses } from '@/components/dashboard/enrolled-courses';
 import { Recommendations } from '@/components/dashboard/recommendations';
-
+// Dashboard Design 
 export default function DashboardPage() {
   return (
     <div className="space-y-8">
